@@ -1,0 +1,73 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="10dp"
+    android:paddingLeft="50dp"
+    android:paddingRight="50dp" >
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:paddingBottom="10dp"
+        android:text="yee" />
+
+    <TextView
+        android:id="@+id/option_1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:background="@drawable/ic_launcher"
+        android:gravity="center"
+        android:text="yeee1"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/option_2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:background="@drawable/ic_launcher"
+        android:gravity="center"
+        android:text="yeee111"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/option_3"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:background="@drawable/ic_launcher"
+        android:gravity="center"
+        android:text="kachow1"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/choice_1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:background="@drawable/ic_launcher"
+        android:gravity="center"
+        android:text="meow" />
+
+    <TextView
+        android:id="@+id/choice_2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:background="@drawable/ic_launcher"
+        android:gravity="center"
+        android:text="ooke" />
+
+    <TextView
+        android:id="@+id/choice_3"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:background="@drawable/ic_launcher"
+        android:gravity="center"
+        android:text="swag" />
+
+</LinearLayout>
